@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rtoya.github.io/uyauyauyauya/post/</loc>
+    <lastmod>2020-01-20T18:48:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtoya.github.io/uyauyauyauya/post/test/</loc>
+    <lastmod>2020-01-20T18:48:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtoya.github.io/uyauyauyauya/</loc>
+    <lastmod>2020-01-20T18:48:29+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rtoya.github.io/uyauyauyauya/categories/</loc>
   </url>
   
   <url>
     <loc>https://rtoya.github.io/uyauyauyauya/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rtoya.github.io/uyauyauyauya/</loc>
   </url>
   
 </urlset>
